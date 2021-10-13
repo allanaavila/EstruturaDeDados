@@ -1,0 +1,8 @@
+INDEX VERSION 1.131+/Users/allana/Aula_EstruturaDeDados/.metadata/.plugins/org.eclipse.jdt.core
+1571868188.index
+3175815946.index
+1803843134.index
+975504348.index
+3913300312.index
+1326094228.index
+3331320506.index
